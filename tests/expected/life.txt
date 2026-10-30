@@ -1,0 +1,63 @@
+
+1. Game of Life
+2. Image transformations
+3. Tetris
+4. Exit
+Enter the image in hexadecimal (top row first):
+Enter the number of generations:
+Enter the time per generation in milliseconds:
+[matrix]
+|        |
+|        |
+|        |
+|  ###   |
+|        |
+|        |
+|        |
+|        |
+[delay] 500 ms
+[matrix]
+|        |
+|        |
+|   #    |
+|   #    |
+|   #    |
+|        |
+|        |
+|        |
+[delay] 500 ms
+[matrix]
+|        |
+|        |
+|        |
+|  ###   |
+|        |
+|        |
+|        |
+|        |
+[delay] 500 ms
+Press Enter to continue.
+[matrix]
+|        |
+|        |
+|        |
+|        |
+|        |
+|        |
+|        |
+|        |
+
+1. Game of Life
+2. Image transformations
+3. Tetris
+4. Exit
+[matrix]
+|        |
+|        |
+|        |
+|        |
+|        |
+|        |
+|        |
+|        |
+Goodbye!

@@ -1,0 +1,230 @@
+
+1. Game of Life
+2. Image transformations
+3. Tetris
+4. Exit
+Enter the image in hexadecimal (top row first):
+[matrix]
+|#      #|
+|  #     |
+|   #    |
+|   #    |
+|      # |
+|        |
+|        |
+|#    #  |
+Image transformations:
+1. Rotate clockwise
+2. Rotate counterclockwise
+3. Mirror left/right
+4. Mirror top/bottom
+5. Shift left
+6. Shift right
+7. Shift left with wrapping
+8. Shift right with wrapping
+9. Back
+[matrix]
+|#      #|
+|        |
+|      # |
+|    ##  |
+|        |
+|#       |
+|   #    |
+|       #|
+Image transformations:
+1. Rotate clockwise
+2. Rotate counterclockwise
+3. Mirror left/right
+4. Mirror top/bottom
+5. Shift left
+6. Shift right
+7. Shift left with wrapping
+8. Shift right with wrapping
+9. Back
+[matrix]
+|#      #|
+|  #     |
+|   #    |
+|   #    |
+|      # |
+|        |
+|        |
+|#    #  |
+Image transformations:
+1. Rotate clockwise
+2. Rotate counterclockwise
+3. Mirror left/right
+4. Mirror top/bottom
+5. Shift left
+6. Shift right
+7. Shift left with wrapping
+8. Shift right with wrapping
+9. Back
+[matrix]
+|#      #|
+|     #  |
+|    #   |
+|    #   |
+| #      |
+|        |
+|        |
+|  #    #|
+Image transformations:
+1. Rotate clockwise
+2. Rotate counterclockwise
+3. Mirror left/right
+4. Mirror top/bottom
+5. Shift left
+6. Shift right
+7. Shift left with wrapping
+8. Shift right with wrapping
+9. Back
+[matrix]
+|  #    #|
+|        |
+|        |
+| #      |
+|    #   |
+|    #   |
+|     #  |
+|#      #|
+Image transformations:
+1. Rotate clockwise
+2. Rotate counterclockwise
+3. Mirror left/right
+4. Mirror top/bottom
+5. Shift left
+6. Shift right
+7. Shift left with wrapping
+8. Shift right with wrapping
+9. Back
+[matrix]
+| #    # |
+|        |
+|        |
+|#       |
+|   #    |
+|   #    |
+|    #   |
+|      ##|
+Image transformations:
+1. Rotate clockwise
+2. Rotate counterclockwise
+3. Mirror left/right
+4. Mirror top/bottom
+5. Shift left
+6. Shift right
+7. Shift left with wrapping
+8. Shift right with wrapping
+9. Back
+[matrix]
+|  #    #|
+|        |
+|        |
+| #      |
+|    #   |
+|    #   |
+|     #  |
+|#      #|
+Image transformations:
+1. Rotate clockwise
+2. Rotate counterclockwise
+3. Mirror left/right
+4. Mirror top/bottom
+5. Shift left
+6. Shift right
+7. Shift left with wrapping
+8. Shift right with wrapping
+9. Back
+[matrix]
+| #    # |
+|        |
+|        |
+|#       |
+|   #    |
+|   #    |
+|    #   |
+|      # |
+Image transformations:
+1. Rotate clockwise
+2. Rotate counterclockwise
+3. Mirror left/right
+4. Mirror top/bottom
+5. Shift left
+6. Shift right
+7. Shift left with wrapping
+8. Shift right with wrapping
+9. Back
+[matrix]
+|    #   |
+|       #|
+|        |
+|  ##    |
+| #      |
+|        |
+|#      #|
+|        |
+Image transformations:
+1. Rotate clockwise
+2. Rotate counterclockwise
+3. Mirror left/right
+4. Mirror top/bottom
+5. Shift left
+6. Shift right
+7. Shift left with wrapping
+8. Shift right with wrapping
+9. Back
+[matrix]
+|     #  |
+|        |
+|        |
+|   ##   |
+|  #     |
+|        |
+| #      |
+|        |
+Image transformations:
+1. Rotate clockwise
+2. Rotate counterclockwise
+3. Mirror left/right
+4. Mirror top/bottom
+5. Shift left
+6. Shift right
+7. Shift left with wrapping
+8. Shift right with wrapping
+9. Back
+[matrix]
+|     #  |
+|        |
+|        |
+|   ##   |
+|  #     |
+|        |
+| #      |
+|        |
+Press Enter to continue.
+[matrix]
+|        |
+|        |
+|        |
+|        |
+|        |
+|        |
+|        |
+|        |
+
+1. Game of Life
+2. Image transformations
+3. Tetris
+4. Exit
+[matrix]
+|        |
+|        |
+|        |
+|        |
+|        |
+|        |
+|        |
+|        |
+Goodbye!
