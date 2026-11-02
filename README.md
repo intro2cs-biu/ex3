@@ -1,4 +1,4 @@
-# Exercise 3 — Arrays, Images, and Tetris
+# Exercise 3 — Arrays, Life, and Tetris
 
 Read **[ex3.pdf](ex3.pdf)** for the assignment requirements. Implement your
 solution in the empty **ex3.c** file. Submit only your completed `ex3.c`,
@@ -29,7 +29,7 @@ For example, from this folder on Linux:
 
 ## Sample tests
 
-`tests/inputs/` contains three sample sessions, one per mode. The same filename under
+`tests/inputs/` contains two sample sessions, one per mode. The same filename under
 `tests/expected/` contains the matching simulator output. See
 **[tests/README.md](tests/README.md)** for the coverage of each case and how to
 compare output. All Tetris test sessions select Static piece order, so they

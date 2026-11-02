@@ -6,13 +6,9 @@ file under `expected/`:
 | File | What it demonstrates |
 |---|---|
 | `life.txt` | The handout's blinker for two generations, with a 500 ms interval. |
-| `images.txt` | All eight transformations applied successively to one asymmetric 8×8 image; every shift moves a lit pixel past an edge. |
 | `tetris.txt` | One Adaptive game using the static sequence `OOOOTIJLSZ`: all seven shapes, movement, normal and faster falling, landing, two-row clearing, rotation, and game over. |
 
-The Life session uses the handout's two-generation blinker. The image session
-uses all eight operations; one extra clockwise rotation between the final
-nonwrapping shifts ensures both directions actually discard lit pixels.
-The wrapping shifts also move lit pixels across an edge.
+The Life session uses the handout's two-generation blinker.
 
 The Tetris session provides one representative pass through the documented
 mechanisms, using Adaptive difficulty and the ten-letter static sequence
@@ -22,7 +18,7 @@ mechanisms, using Adaptive difficulty and the ten-letter static sequence
   piece together with fixed cells.
 - Seven-update gravity, faster falling, and fresh falling phases after
   downward moves.
-- Three-update landing allowance, movement and rotation while grounded,
+- Four-update landing allowance, movement and rotation while grounded,
   moving off support, preserved falling progress, and a fresh allowance
   after landing again.
 - Clockwise rotation using up and up-right, counterclockwise rotation using
@@ -34,7 +30,7 @@ mechanisms, using Adaptive difficulty and the ten-letter static sequence
 - Repeating the short static sequence, blocked-spawn game over, the final
   board, the continue prompt, and return to the main menu before exiting.
 
-It is one game with 109 updates, ending with `Rows cleared: 2`. It does not
+It is one game with 121 updates, ending with `Rows cleared: 2`. It does not
 repeat the same mechanisms at every difficulty or enumerate every edge case.
 
 Each input session returns to the main menu and exits. Tetris uses only Static

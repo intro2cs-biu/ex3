@@ -1,8 +1,7 @@
 
 1. Game of Life
-2. Image transformations
-3. Tetris
-4. Exit
+2. Tetris
+3. Exit
 Enter the image in hexadecimal (top row first):
 Enter the number of generations:
 Enter the time per generation in milliseconds:
@@ -48,9 +47,8 @@ Press Enter to continue.
 |        |
 
 1. Game of Life
-2. Image transformations
-3. Tetris
-4. Exit
+2. Tetris
+3. Exit
 [matrix]
 |        |
 |        |

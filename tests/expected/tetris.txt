@@ -1,8 +1,7 @@
 
 1. Game of Life
-2. Image transformations
-3. Tetris
-4. Exit
+2. Tetris
+3. Exit
 Choose difficulty:
 1. Easy (250 ms)
 2. Normal (150 ms)
@@ -162,6 +161,16 @@ Tetris game starts: left/right to move, up to rotate (up-left counterclockwise),
 |        |
 |##      |
 |##      |
+[delay] 250 ms
+[matrix]
+|        |
+|        |
+|        |
+|        |
+|        |
+|        |
+|##      |
+|##      |
 [matrix]
 |        |
 |        |
@@ -301,6 +310,16 @@ Tetris game starts: left/right to move, up to rotate (up-left counterclockwise),
 |  ##    |
 |####    |
 |##      |
+[delay] 250 ms
+[matrix]
+|        |
+|        |
+|        |
+|        |
+|        |
+|        |
+|####    |
+|####    |
 [delay] 250 ms
 [matrix]
 |        |
@@ -400,6 +419,16 @@ Tetris game starts: left/right to move, up to rotate (up-left counterclockwise),
 |    ##  |
 |######  |
 |####    |
+[delay] 250 ms
+[matrix]
+|        |
+|        |
+|        |
+|        |
+|        |
+|        |
+|######  |
+|######  |
 [delay] 250 ms
 [matrix]
 |        |
@@ -499,6 +528,16 @@ Tetris game starts: left/right to move, up to rotate (up-left counterclockwise),
 |      ##|
 |########|
 |######  |
+[delay] 250 ms
+[matrix]
+|        |
+|        |
+|        |
+|        |
+|        |
+|        |
+|########|
+|########|
 [delay] 250 ms
 [matrix]
 |        |
@@ -638,6 +677,16 @@ Tetris game starts: left/right to move, up to rotate (up-left counterclockwise),
 | #      |
 |###     |
 |        |
+[delay] 173 ms
+[matrix]
+|        |
+|        |
+|        |
+|        |
+|        |
+|        |
+| #      |
+|###     |
 [delay] 173 ms
 [matrix]
 |        |
@@ -777,6 +826,16 @@ Tetris game starts: left/right to move, up to rotate (up-left counterclockwise),
 |        |
 | #      |
 |### ####|
+[delay] 173 ms
+[matrix]
+|        |
+|        |
+|        |
+|        |
+|        |
+|        |
+| #      |
+|### ####|
 [matrix]
 |        |
 |        |
@@ -845,6 +904,16 @@ Tetris game starts: left/right to move, up to rotate (up-left counterclockwise),
 |     #  |
 |     ###|
 | #      |
+|### ####|
+[delay] 173 ms
+[matrix]
+|        |
+|        |
+|        |
+|        |
+|        |
+|     #  |
+| #   ###|
 |### ####|
 [delay] 173 ms
 [matrix]
@@ -955,6 +1024,16 @@ Tetris game starts: left/right to move, up to rotate (up-left counterclockwise),
 |###  #  |
 | #   ###|
 |### ####|
+[delay] 173 ms
+[matrix]
+|        |
+|        |
+|        |
+|        |
+|  #     |
+|###  #  |
+| #   ###|
+|### ####|
 [matrix]
 |        |
 |        |
@@ -1034,6 +1113,16 @@ Tetris game starts: left/right to move, up to rotate (up-left counterclockwise),
 |######  |
 | #   ###|
 |### ####|
+[delay] 173 ms
+[matrix]
+|        |
+|        |
+|        |
+|        |
+|  # ##  |
+|######  |
+| #   ###|
+|### ####|
 [matrix]
 |        |
 |        |
@@ -1103,6 +1192,16 @@ Tetris game starts: left/right to move, up to rotate (up-left counterclockwise),
 |######  |
 | #   ###|
 |### ####|
+[delay] 173 ms
+[matrix]
+|        |
+|        |
+|        |
+|     ## |
+|  # ####|
+|######  |
+| #   ###|
+|### ####|
 [matrix]
 |        |
 |        |
@@ -1162,9 +1261,29 @@ Tetris game starts: left/right to move, up to rotate (up-left counterclockwise),
 |######  |
 | #   ###|
 |### ####|
+[delay] 173 ms
 [matrix]
 |        |
 |        |
+|  ##    |
+|  ## ## |
+|  # ####|
+|######  |
+| #   ###|
+|### ####|
+[matrix]
+|        |
+|        |
+|  ##    |
+|  ## ## |
+|  # ####|
+|######  |
+| #   ###|
+|### ####|
+[delay] 173 ms
+[matrix]
+|  ##    |
+|  ##    |
 |  ##    |
 |  ## ## |
 |  # ####|
@@ -1225,9 +1344,8 @@ Press Enter to continue.
 |        |
 
 1. Game of Life
-2. Image transformations
-3. Tetris
-4. Exit
+2. Tetris
+3. Exit
 [matrix]
 |        |
 |        |
