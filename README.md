@@ -47,3 +47,7 @@ The simulator prints delays without waiting in real time. The physical board
 waits for the specified duration. Passing the sample tests does not guarantee
 that every required behavior is correct; also test your implementation on
 the Arduino with the matrix and joystick.
+
+Assume all input is valid; input validation is not required. Enter numeric
+inputs on separate lines and use uppercase piece letters. Press Enter on an
+empty line at the continue prompt.

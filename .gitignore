@@ -1,0 +1,8 @@
+/ex3
+/ex3.exe
+/ex3.elf
+/ex3.hex
+/actual.txt
+*.o
+*.dSYM/
+.DS_Store
