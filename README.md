@@ -51,3 +51,6 @@ the Arduino with the matrix and joystick.
 Assume all input is valid; input validation is not required. Enter numeric
 inputs on separate lines and use uppercase piece letters. Press Enter on an
 empty line at the continue prompt.
+
+Game of Life wraps across both pairs of opposite edges, including diagonals.
+Tetris boundaries remain unchanged.

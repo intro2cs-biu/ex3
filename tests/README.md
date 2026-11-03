@@ -1,14 +1,18 @@
 # Sample tests
 
-There is one complete input session per mode, with a matching simulator output
+There are complete input sessions for both modes, with a matching simulator output
 file under `expected/`:
 
 | File | What it demonstrates |
 |---|---|
 | `life.txt` | The handout's blinker for two generations, with a 500 ms interval. |
+| `life_wrapping.txt` | A blinker crossing the left/right seam and the top/bottom seam. |
 | `tetris.txt` | One Adaptive game using the static sequence `OOOOTIJLSZ`: all seven shapes, movement, normal and faster falling, landing, two-row clearing, rotation, and game over. |
 
-The Life session uses the handout's two-generation blinker.
+The original Life session uses the handout's two-generation blinker. The wrapping
+session starts with live cells (0, 7), (0, 0), and (0, 1). After one generation,
+the live cells are (7, 0), (0, 0), and (1, 0); the second restores the initial
+pattern. Coordinates are (row, column). Opposite edges are adjacent, including diagonals.
 
 The Tetris session provides one representative pass through the documented
 mechanisms, using Adaptive difficulty and the ten-letter static sequence
